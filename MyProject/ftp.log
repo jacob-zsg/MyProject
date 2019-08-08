@@ -1,0 +1,13 @@
+07/31/2019 15:13:56 PM - DEBUG - FTP service 192.168.0.105:21 starts listening
+07/31/2019 15:13:56 PM - INFO - >>> starting FTP server on 192.168.0.105:21, pid=9124 <<<
+07/31/2019 15:13:56 PM - INFO - concurrency model: async
+07/31/2019 15:13:56 PM - INFO - masquerade (NAT) address: None
+07/31/2019 15:13:56 PM - INFO - passive ports: None
+07/31/2019 15:13:56 PM - DEBUG - poller: 'pyftpdlib.ioloop.Select'
+07/31/2019 15:13:56 PM - DEBUG - authorizer: 'pyftpdlib.authorizers.DummyAuthorizer'
+07/31/2019 15:13:56 PM - DEBUG - handler: 'pyftpdlib.handlers.FTPHandler'
+07/31/2019 15:13:56 PM - DEBUG - max connections: 100
+07/31/2019 15:13:56 PM - DEBUG - max connections per ip: 10
+07/31/2019 15:13:56 PM - DEBUG - timeout: 300
+07/31/2019 15:13:56 PM - DEBUG - banner: u'Welcome to my ftp'
+07/31/2019 15:13:56 PM - DEBUG - max login attempts: 3

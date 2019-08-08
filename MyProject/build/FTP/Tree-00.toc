@@ -1,0 +1,10 @@
+('c:\\python27\\lib\\site-packages\\pyftpdlib-1.5.5-py2.7.egg',
+ None,
+ set(['*.py', '*.pyc', '*.pyd', '*.pyw', 'EGG-INFO']),
+ 'DATA',
+ [('pyftpdlib\\test\\keycert.pem',
+   'c:\\python27\\lib\\site-packages\\pyftpdlib-1.5.5-py2.7.egg\\pyftpdlib\\test\\keycert.pem',
+   'DATA'),
+  ('pyftpdlib\\test\\README',
+   'c:\\python27\\lib\\site-packages\\pyftpdlib-1.5.5-py2.7.egg\\pyftpdlib\\test\\README',
+   'DATA')])

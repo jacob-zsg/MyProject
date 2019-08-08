@@ -1,0 +1,244 @@
+07/31/2019 15:20:22 PM - DEBUG - FTP service 192.168.0.105:21 starts listening
+07/31/2019 15:20:22 PM - INFO - >>> starting FTP server on 192.168.0.105:21, pid=10068 <<<
+07/31/2019 15:20:22 PM - INFO - concurrency model: async
+07/31/2019 15:20:22 PM - INFO - masquerade (NAT) address: None
+07/31/2019 15:20:22 PM - INFO - passive ports: None
+07/31/2019 15:20:22 PM - DEBUG - poller: 'pyftpdlib.ioloop.Select'
+07/31/2019 15:20:22 PM - DEBUG - authorizer: 'pyftpdlib.authorizers.DummyAuthorizer'
+07/31/2019 15:20:22 PM - DEBUG - handler: 'pyftpdlib.handlers.FTPHandler'
+07/31/2019 15:20:22 PM - DEBUG - max connections: 100
+07/31/2019 15:20:22 PM - DEBUG - max connections per ip: 10
+07/31/2019 15:20:22 PM - DEBUG - timeout: 300
+07/31/2019 15:20:22 PM - DEBUG - banner: u'Welcome to my ftp'
+07/31/2019 15:20:22 PM - DEBUG - max login attempts: 3
+07/31/2019 15:20:38 PM - DEBUG - FTP service 192.168.0.105:21 starts listening
+07/31/2019 15:20:38 PM - INFO - >>> starting FTP server on 192.168.0.105:21, pid=112 <<<
+07/31/2019 15:20:38 PM - INFO - concurrency model: async
+07/31/2019 15:20:38 PM - INFO - masquerade (NAT) address: None
+07/31/2019 15:20:38 PM - INFO - passive ports: None
+07/31/2019 15:20:38 PM - DEBUG - poller: 'pyftpdlib.ioloop.Select'
+07/31/2019 15:20:38 PM - DEBUG - authorizer: 'pyftpdlib.authorizers.DummyAuthorizer'
+07/31/2019 15:20:38 PM - DEBUG - handler: 'pyftpdlib.handlers.FTPHandler'
+07/31/2019 15:20:38 PM - DEBUG - max connections: 100
+07/31/2019 15:20:38 PM - DEBUG - max connections per ip: 10
+07/31/2019 15:20:38 PM - DEBUG - timeout: 300
+07/31/2019 15:20:38 PM - DEBUG - banner: u'Welcome to my ftp'
+07/31/2019 15:20:38 PM - DEBUG - max login attempts: 3
+07/31/2019 15:20:55 PM - DEBUG - FTP service 192.168.0.105:21 starts listening
+07/31/2019 15:20:55 PM - INFO - >>> starting FTP server on 192.168.0.105:21, pid=9980 <<<
+07/31/2019 15:20:55 PM - INFO - concurrency model: async
+07/31/2019 15:20:55 PM - INFO - masquerade (NAT) address: None
+07/31/2019 15:20:55 PM - INFO - passive ports: None
+07/31/2019 15:20:55 PM - DEBUG - poller: 'pyftpdlib.ioloop.Select'
+07/31/2019 15:20:55 PM - DEBUG - authorizer: 'pyftpdlib.authorizers.DummyAuthorizer'
+07/31/2019 15:20:55 PM - DEBUG - handler: 'pyftpdlib.handlers.FTPHandler'
+07/31/2019 15:20:55 PM - DEBUG - max connections: 100
+07/31/2019 15:20:55 PM - DEBUG - max connections per ip: 10
+07/31/2019 15:20:55 PM - DEBUG - timeout: 300
+07/31/2019 15:20:55 PM - DEBUG - banner: u'Welcome to my ftp'
+07/31/2019 15:20:55 PM - DEBUG - max login attempts: 3
+07/31/2019 15:21:27 PM - DEBUG - FTP service 192.168.0.105:21 starts listening
+07/31/2019 15:21:27 PM - INFO - >>> starting FTP server on 192.168.0.105:21, pid=3952 <<<
+07/31/2019 15:21:27 PM - INFO - concurrency model: async
+07/31/2019 15:21:27 PM - INFO - masquerade (NAT) address: None
+07/31/2019 15:21:27 PM - INFO - passive ports: None
+07/31/2019 15:21:27 PM - DEBUG - poller: 'pyftpdlib.ioloop.Select'
+07/31/2019 15:21:27 PM - DEBUG - authorizer: 'pyftpdlib.authorizers.DummyAuthorizer'
+07/31/2019 15:21:27 PM - DEBUG - handler: 'pyftpdlib.handlers.FTPHandler'
+07/31/2019 15:21:27 PM - DEBUG - max connections: 100
+07/31/2019 15:21:27 PM - DEBUG - max connections per ip: 10
+07/31/2019 15:21:27 PM - DEBUG - timeout: 300
+07/31/2019 15:21:27 PM - DEBUG - banner: u'Welcome to my ftp'
+07/31/2019 15:21:27 PM - DEBUG - max login attempts: 3
+07/31/2019 15:25:10 PM - DEBUG - FTP service 192.168.0.105:21 starts listening
+07/31/2019 15:25:10 PM - INFO - >>> starting FTP server on 192.168.0.105:21, pid=8268 <<<
+07/31/2019 15:25:10 PM - INFO - concurrency model: async
+07/31/2019 15:25:10 PM - INFO - masquerade (NAT) address: None
+07/31/2019 15:25:10 PM - INFO - passive ports: None
+07/31/2019 15:25:10 PM - DEBUG - poller: 'pyftpdlib.ioloop.Select'
+07/31/2019 15:25:10 PM - DEBUG - authorizer: 'pyftpdlib.authorizers.DummyAuthorizer'
+07/31/2019 15:25:10 PM - DEBUG - handler: 'pyftpdlib.handlers.FTPHandler'
+07/31/2019 15:25:10 PM - DEBUG - max connections: 100
+07/31/2019 15:25:10 PM - DEBUG - max connections per ip: 10
+07/31/2019 15:25:10 PM - DEBUG - timeout: 300
+07/31/2019 15:25:10 PM - DEBUG - banner: u'Welcome to my ftp'
+07/31/2019 15:25:10 PM - DEBUG - max login attempts: 3
+07/31/2019 15:26:26 PM - DEBUG - FTP service 192.168.0.105:21 starts listening
+07/31/2019 15:26:26 PM - INFO - >>> starting FTP server on 192.168.0.105:21, pid=2300 <<<
+07/31/2019 15:26:26 PM - INFO - concurrency model: async
+07/31/2019 15:26:26 PM - INFO - masquerade (NAT) address: None
+07/31/2019 15:26:26 PM - INFO - passive ports: None
+07/31/2019 15:26:26 PM - DEBUG - poller: 'pyftpdlib.ioloop.Select'
+07/31/2019 15:26:26 PM - DEBUG - authorizer: 'pyftpdlib.authorizers.DummyAuthorizer'
+07/31/2019 15:26:26 PM - DEBUG - handler: 'pyftpdlib.handlers.FTPHandler'
+07/31/2019 15:26:26 PM - DEBUG - max connections: 100
+07/31/2019 15:26:26 PM - DEBUG - max connections per ip: 10
+07/31/2019 15:26:26 PM - DEBUG - timeout: 300
+07/31/2019 15:26:26 PM - DEBUG - banner: u'Welcome to my ftp'
+07/31/2019 15:26:26 PM - DEBUG - max login attempts: 3
+07/31/2019 15:33:35 PM - DEBUG - FTP service 192.168.0.105:21 starts listening
+07/31/2019 15:33:35 PM - INFO - >>> starting FTP server on 192.168.0.105:21, pid=7640 <<<
+07/31/2019 15:33:35 PM - INFO - concurrency model: async
+07/31/2019 15:33:35 PM - INFO - masquerade (NAT) address: None
+07/31/2019 15:33:35 PM - INFO - passive ports: None
+07/31/2019 15:33:35 PM - DEBUG - poller: 'pyftpdlib.ioloop.Select'
+07/31/2019 15:33:35 PM - DEBUG - authorizer: 'pyftpdlib.authorizers.DummyAuthorizer'
+07/31/2019 15:33:35 PM - DEBUG - handler: 'pyftpdlib.handlers.FTPHandler'
+07/31/2019 15:33:35 PM - DEBUG - max connections: 100
+07/31/2019 15:33:35 PM - DEBUG - max connections per ip: 10
+07/31/2019 15:33:35 PM - DEBUG - timeout: 300
+07/31/2019 15:33:35 PM - DEBUG - banner: u'Welcome to my ftp'
+07/31/2019 15:33:35 PM - DEBUG - max login attempts: 3
+07/31/2019 15:39:40 PM - DEBUG - FTP service 192.168.0.105:21 starts listening
+07/31/2019 15:39:40 PM - INFO - >>> starting FTP server on 192.168.0.105:21, pid=7248 <<<
+07/31/2019 15:39:40 PM - INFO - concurrency model: async
+07/31/2019 15:39:40 PM - INFO - masquerade (NAT) address: None
+07/31/2019 15:39:40 PM - INFO - passive ports: None
+07/31/2019 15:39:40 PM - DEBUG - poller: 'pyftpdlib.ioloop.Select'
+07/31/2019 15:39:40 PM - DEBUG - authorizer: 'pyftpdlib.authorizers.DummyAuthorizer'
+07/31/2019 15:39:40 PM - DEBUG - handler: 'pyftpdlib.handlers.FTPHandler'
+07/31/2019 15:39:40 PM - DEBUG - max connections: 100
+07/31/2019 15:39:40 PM - DEBUG - max connections per ip: 10
+07/31/2019 15:39:40 PM - DEBUG - timeout: 300
+07/31/2019 15:39:40 PM - DEBUG - banner: u'Welcome to my ftp'
+07/31/2019 15:39:40 PM - DEBUG - max login attempts: 3
+07/31/2019 15:49:12 PM - DEBUG - FTP service 192.168.0.105:21 starts listening
+07/31/2019 15:49:12 PM - INFO - >>> starting FTP server on 192.168.0.105:21, pid=12056 <<<
+07/31/2019 15:49:12 PM - INFO - concurrency model: async
+07/31/2019 15:49:12 PM - INFO - masquerade (NAT) address: None
+07/31/2019 15:49:12 PM - INFO - passive ports: None
+07/31/2019 15:49:12 PM - DEBUG - poller: 'pyftpdlib.ioloop.Select'
+07/31/2019 15:49:12 PM - DEBUG - authorizer: 'pyftpdlib.authorizers.DummyAuthorizer'
+07/31/2019 15:49:12 PM - DEBUG - handler: 'pyftpdlib.handlers.FTPHandler'
+07/31/2019 15:49:12 PM - DEBUG - max connections: 100
+07/31/2019 15:49:12 PM - DEBUG - max connections per ip: 10
+07/31/2019 15:49:12 PM - DEBUG - timeout: 300
+07/31/2019 15:49:12 PM - DEBUG - banner: u'Welcome to my ftp'
+07/31/2019 15:49:12 PM - DEBUG - max login attempts: 3
+07/31/2019 15:49:56 PM - INFO - 192.168.0.112:63802-[] FTP session opened (connect)
+07/31/2019 15:49:56 PM - DEBUG - 192.168.0.112:63802-[] -> 220 Welcome to my ftp
+07/31/2019 15:49:59 PM - DEBUG - [debug] call: close() (<FTPHandler(id=2442829831816L, addr='192.168.0.112:63802')>)
+07/31/2019 15:49:59 PM - INFO - 192.168.0.112:63802-[] FTP session closed (disconnect).
+07/31/2019 15:51:10 PM - INFO - 192.168.0.112:63899-[] FTP session opened (connect)
+07/31/2019 15:51:10 PM - DEBUG - 192.168.0.112:63899-[] -> 220 Welcome to my ftp
+07/31/2019 15:51:10 PM - DEBUG - 192.168.0.112:63899-[] <- USER anonymous
+07/31/2019 15:51:10 PM - DEBUG - 192.168.0.112:63899-[] -> 331 Username ok, send password.
+07/31/2019 15:51:10 PM - DEBUG - 192.168.0.112:63899-[anonymous] <- PASS ******
+07/31/2019 15:51:13 PM - DEBUG - 192.168.0.112:63899-[] -> 530 Anonymous access not allowed.
+07/31/2019 15:51:13 PM - INFO - 192.168.0.112:63899-[] USER 'anonymous' failed login.
+07/31/2019 15:51:13 PM - DEBUG - [debug] call: close() (<FTPHandler(id=2442829831432L, addr='192.168.0.112:63899')>)
+07/31/2019 15:51:13 PM - INFO - 192.168.0.112:63899-[] FTP session closed (disconnect).
+07/31/2019 15:51:13 PM - INFO - 192.168.0.112:63903-[] FTP session opened (connect)
+07/31/2019 15:51:13 PM - DEBUG - 192.168.0.112:63903-[] -> 220 Welcome to my ftp
+07/31/2019 15:51:13 PM - DEBUG - 192.168.0.112:63903-[] <- USER anonymous
+07/31/2019 15:51:13 PM - DEBUG - 192.168.0.112:63903-[] -> 331 Username ok, send password.
+07/31/2019 15:51:13 PM - DEBUG - 192.168.0.112:63903-[anonymous] <- PASS ******
+07/31/2019 15:51:16 PM - DEBUG - 192.168.0.112:63903-[] -> 530 Anonymous access not allowed.
+07/31/2019 15:51:16 PM - INFO - 192.168.0.112:63903-[] USER 'anonymous' failed login.
+07/31/2019 15:51:16 PM - DEBUG - [debug] call: close() (<FTPHandler(id=2442829831816L, addr='192.168.0.112:63903')>)
+07/31/2019 15:51:16 PM - INFO - 192.168.0.112:63903-[] FTP session closed (disconnect).
+07/31/2019 15:51:38 PM - INFO - 192.168.0.112:63936-[] FTP session opened (connect)
+07/31/2019 15:51:38 PM - DEBUG - 192.168.0.112:63936-[] -> 220 Welcome to my ftp
+07/31/2019 15:51:38 PM - DEBUG - 192.168.0.112:63936-[] <- USER anonymous
+07/31/2019 15:51:38 PM - DEBUG - 192.168.0.112:63936-[] -> 331 Username ok, send password.
+07/31/2019 15:51:38 PM - DEBUG - 192.168.0.112:63936-[anonymous] <- PASS ******
+07/31/2019 15:51:41 PM - DEBUG - 192.168.0.112:63936-[] -> 530 Anonymous access not allowed.
+07/31/2019 15:51:41 PM - INFO - 192.168.0.112:63936-[] USER 'anonymous' failed login.
+07/31/2019 15:51:41 PM - DEBUG - 192.168.0.112:63936-[] <- QUIT
+07/31/2019 15:51:41 PM - DEBUG - 192.168.0.112:63936-[] -> 221 Goodbye.
+07/31/2019 15:51:41 PM - DEBUG - [debug] call: close() (<FTPHandler(id=2442829831432L, addr='192.168.0.112:63936')>)
+07/31/2019 15:51:41 PM - INFO - 192.168.0.112:63936-[] FTP session closed (disconnect).
+07/31/2019 15:56:50 PM - INFO - 192.168.0.112:64303-[] FTP session opened (connect)
+07/31/2019 15:56:50 PM - DEBUG - 192.168.0.112:64303-[] -> 220 Welcome to my ftp
+07/31/2019 15:56:50 PM - DEBUG - 192.168.0.112:64303-[] <- USER anonymous
+07/31/2019 15:56:50 PM - DEBUG - 192.168.0.112:64303-[] -> 331 Username ok, send password.
+07/31/2019 15:56:50 PM - DEBUG - 192.168.0.112:64303-[anonymous] <- PASS ******
+07/31/2019 15:56:53 PM - DEBUG - 192.168.0.112:64303-[] -> 530 Anonymous access not allowed.
+07/31/2019 15:56:53 PM - INFO - 192.168.0.112:64303-[] USER 'anonymous' failed login.
+07/31/2019 15:56:53 PM - DEBUG - 192.168.0.112:64303-[] <- QUIT
+07/31/2019 15:56:53 PM - DEBUG - 192.168.0.112:64303-[] -> 221 Goodbye.
+07/31/2019 15:56:53 PM - DEBUG - [debug] call: close() (<FTPHandler(id=2442829831816L, addr='192.168.0.112:64303')>)
+07/31/2019 15:56:53 PM - INFO - 192.168.0.112:64303-[] FTP session closed (disconnect).
+07/31/2019 15:57:04 PM - INFO - 192.168.0.112:64318-[] FTP session opened (connect)
+07/31/2019 15:57:04 PM - DEBUG - 192.168.0.112:64318-[] -> 220 Welcome to my ftp
+07/31/2019 15:57:04 PM - DEBUG - 192.168.0.112:64318-[] <- USER xqy
+07/31/2019 15:57:04 PM - DEBUG - 192.168.0.112:64318-[] -> 331 Username ok, send password.
+07/31/2019 15:57:04 PM - DEBUG - 192.168.0.112:64318-[xqy] <- PASS ******
+07/31/2019 15:57:04 PM - DEBUG - 192.168.0.112:64318-[xqy] -> 230 Login successful.
+07/31/2019 15:57:04 PM - INFO - 192.168.0.112:64318-[xqy] USER 'xqy' logged in.
+07/31/2019 15:57:04 PM - DEBUG - 192.168.0.112:64318-[xqy] <- SYST
+07/31/2019 15:57:04 PM - DEBUG - 192.168.0.112:64318-[xqy] -> 215 UNIX Type: L8
+07/31/2019 15:57:04 PM - DEBUG - 192.168.0.112:64318-[xqy] <- PWD
+07/31/2019 15:57:04 PM - DEBUG - 192.168.0.112:64318-[xqy] -> 257 "/" is the current directory.
+07/31/2019 15:57:04 PM - DEBUG - 192.168.0.112:64318-[xqy] <- TYPE I
+07/31/2019 15:57:04 PM - DEBUG - 192.168.0.112:64318-[xqy] -> 200 Type set to: Binary.
+07/31/2019 15:57:04 PM - DEBUG - 192.168.0.112:64318-[xqy] <- SIZE /
+07/31/2019 15:57:04 PM - DEBUG - 192.168.0.112:64318-[xqy] -> 550 / is not retrievable.
+07/31/2019 15:57:04 PM - DEBUG - 192.168.0.112:64318-[xqy] <- CWD /
+07/31/2019 15:57:04 PM - DEBUG - 192.168.0.112:64318-[xqy] -> 250 "/" is the current directory.
+07/31/2019 15:57:04 PM - DEBUG - 192.168.0.112:64318-[xqy] <- PASV
+07/31/2019 15:57:04 PM - DEBUG - 192.168.0.112:64318-[xqy] -> 227 Entering passive mode (192,168,0,105,243,12).
+07/31/2019 15:57:04 PM - DEBUG - [debug] call: close() (<pyftpdlib.handlers.PassiveDTP listening 192.168.0.105:0 at 0x238c4011fc8>)
+07/31/2019 15:57:04 PM - DEBUG - [debug] call: close() (<pyftpdlib.handlers.PassiveDTP 192.168.0.105:0 at 0x238c4011fc8>)
+07/31/2019 15:57:04 PM - DEBUG - 192.168.0.112:64318-[xqy] <- LIST -l
+07/31/2019 15:57:04 PM - DEBUG - 192.168.0.112:64318-[xqy] -> 125 Data connection already open. Transfer starting.
+07/31/2019 15:57:04 PM - DEBUG - [debug] starting transfer using send() (<DTPHandler(id=2442829831432L, addr='192.168.0.112:64318', user=u'xqy')>)
+07/31/2019 15:57:04 PM - DEBUG - [debug] call: close() (<DTPHandler(id=2442829831432L, addr='192.168.0.112:64318', user=u'xqy')>)
+07/31/2019 15:57:04 PM - DEBUG - 192.168.0.112:64318-[xqy] -> 226 Transfer complete.
+07/31/2019 15:57:04 PM - DEBUG - [debug] call: close() (<FTPHandler(id=2442829831432L, addr='192.168.0.112:64318', user=u'xqy')>)
+07/31/2019 15:57:04 PM - INFO - 192.168.0.112:64318-[xqy] FTP session closed (disconnect).
+07/31/2019 15:57:24 PM - INFO - 192.168.0.112:64346-[] FTP session opened (connect)
+07/31/2019 15:57:24 PM - DEBUG - 192.168.0.112:64346-[] -> 220 Welcome to my ftp
+07/31/2019 15:57:24 PM - DEBUG - 192.168.0.112:64346-[] <- USER anonymous
+07/31/2019 15:57:24 PM - DEBUG - 192.168.0.112:64346-[] -> 331 Username ok, send password.
+07/31/2019 15:57:24 PM - DEBUG - 192.168.0.112:64346-[anonymous] <- PASS ******
+07/31/2019 15:57:27 PM - DEBUG - 192.168.0.112:64346-[] -> 530 Anonymous access not allowed.
+07/31/2019 15:57:27 PM - INFO - 192.168.0.112:64346-[] USER 'anonymous' failed login.
+07/31/2019 15:57:27 PM - DEBUG - [debug] call: close() (<FTPHandler(id=2442829831816L, addr='192.168.0.112:64346')>)
+07/31/2019 15:57:27 PM - INFO - 192.168.0.112:64346-[] FTP session closed (disconnect).
+07/31/2019 15:57:32 PM - INFO - 192.168.0.112:64360-[] FTP session opened (connect)
+07/31/2019 15:57:32 PM - DEBUG - 192.168.0.112:64360-[] -> 220 Welcome to my ftp
+07/31/2019 15:57:32 PM - DEBUG - 192.168.0.112:64360-[] <- USER xqy
+07/31/2019 15:57:32 PM - DEBUG - 192.168.0.112:64360-[] -> 331 Username ok, send password.
+07/31/2019 15:57:32 PM - DEBUG - 192.168.0.112:64360-[xqy] <- PASS ******
+07/31/2019 15:57:32 PM - DEBUG - 192.168.0.112:64360-[xqy] -> 230 Login successful.
+07/31/2019 15:57:32 PM - INFO - 192.168.0.112:64360-[xqy] USER 'xqy' logged in.
+07/31/2019 15:57:32 PM - DEBUG - 192.168.0.112:64360-[xqy] <- opts utf8 on
+07/31/2019 15:57:32 PM - DEBUG - 192.168.0.112:64360-[xqy] -> 501 Invalid argument.
+07/31/2019 15:57:32 PM - DEBUG - 192.168.0.112:64360-[xqy] <- syst
+07/31/2019 15:57:32 PM - DEBUG - 192.168.0.112:64360-[xqy] -> 215 UNIX Type: L8
+07/31/2019 15:57:32 PM - DEBUG - 192.168.0.112:64360-[xqy] <- site help
+07/31/2019 15:57:32 PM - DEBUG - 192.168.0.112:64360-[xqy] -> 214 Help SITE command successful.
+07/31/2019 15:57:32 PM - DEBUG - 192.168.0.112:64360-[xqy] <- PWD
+07/31/2019 15:57:32 PM - DEBUG - 192.168.0.112:64360-[xqy] -> 257 "/" is the current directory.
+07/31/2019 15:57:33 PM - INFO - 192.168.0.112:64361-[] FTP session opened (connect)
+07/31/2019 15:57:33 PM - DEBUG - 192.168.0.112:64361-[] -> 220 Welcome to my ftp
+07/31/2019 15:57:33 PM - DEBUG - 192.168.0.112:64361-[] <- USER xqy
+07/31/2019 15:57:33 PM - DEBUG - 192.168.0.112:64361-[] -> 331 Username ok, send password.
+07/31/2019 15:57:33 PM - DEBUG - 192.168.0.112:64361-[xqy] <- PASS ******
+07/31/2019 15:57:33 PM - DEBUG - 192.168.0.112:64361-[xqy] -> 230 Login successful.
+07/31/2019 15:57:33 PM - INFO - 192.168.0.112:64361-[xqy] USER 'xqy' logged in.
+07/31/2019 15:57:33 PM - DEBUG - 192.168.0.112:64361-[xqy] <- opts utf8 on
+07/31/2019 15:57:33 PM - DEBUG - 192.168.0.112:64361-[xqy] -> 501 Invalid argument.
+07/31/2019 15:57:33 PM - DEBUG - 192.168.0.112:64361-[xqy] <- syst
+07/31/2019 15:57:33 PM - DEBUG - 192.168.0.112:64361-[xqy] -> 215 UNIX Type: L8
+07/31/2019 15:57:33 PM - DEBUG - 192.168.0.112:64361-[xqy] <- site help
+07/31/2019 15:57:33 PM - DEBUG - 192.168.0.112:64361-[xqy] -> 214 Help SITE command successful.
+07/31/2019 15:57:33 PM - DEBUG - 192.168.0.112:64361-[xqy] <- PWD
+07/31/2019 15:57:33 PM - DEBUG - 192.168.0.112:64361-[xqy] -> 257 "/" is the current directory.
+07/31/2019 15:57:33 PM - DEBUG - 192.168.0.112:64361-[xqy] <- TYPE A
+07/31/2019 15:57:33 PM - DEBUG - 192.168.0.112:64361-[xqy] -> 200 Type set to: ASCII.
+07/31/2019 15:57:33 PM - DEBUG - 192.168.0.112:64361-[xqy] <- PASV
+07/31/2019 15:57:33 PM - DEBUG - 192.168.0.112:64361-[xqy] -> 227 Entering passive mode (192,168,0,105,243,13).
+07/31/2019 15:57:33 PM - DEBUG - [debug] call: close() (<pyftpdlib.handlers.PassiveDTP listening 192.168.0.105:0 at 0x238c4022dc8>)
+07/31/2019 15:57:33 PM - DEBUG - [debug] call: close() (<pyftpdlib.handlers.PassiveDTP 192.168.0.105:0 at 0x238c4022dc8>)
+07/31/2019 15:57:33 PM - DEBUG - 192.168.0.112:64361-[xqy] <- LIST
+07/31/2019 15:57:33 PM - DEBUG - 192.168.0.112:64361-[xqy] -> 125 Data connection already open. Transfer starting.
+07/31/2019 15:57:33 PM - DEBUG - [debug] starting transfer using send() (<DTPHandler(id=2442829900488L, addr='192.168.0.112:64361', user=u'xqy')>)
+07/31/2019 15:57:33 PM - DEBUG - [debug] call: close() (<DTPHandler(id=2442829900488L, addr='192.168.0.112:64361', user=u'xqy')>)
+07/31/2019 15:57:33 PM - DEBUG - 192.168.0.112:64361-[xqy] -> 226 Transfer complete.
+07/31/2019 15:57:33 PM - DEBUG - [debug] call: close() (<FTPHandler(id=2442829831432L, addr='192.168.0.112:64360', user=u'xqy')>)
+07/31/2019 15:57:33 PM - INFO - 192.168.0.112:64360-[xqy] FTP session closed (disconnect).
+07/31/2019 16:02:33 PM - INFO - 192.168.0.112:64361-[xqy] -> 421 Control connection timed out.
+07/31/2019 16:02:33 PM - DEBUG - [debug] call: close() (<FTPHandler(id=2442829900488L, addr='192.168.0.112:64361', user=u'xqy')>)
+07/31/2019 16:02:33 PM - INFO - 192.168.0.112:64361-[xqy] FTP session closed (disconnect).
